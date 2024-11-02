@@ -1,1 +1,1 @@
-The repository to make it easier to share the info during the hackathon
+Cardiac's friends' team repository for AUA BioML Hackathon https://www.kaggle.com/competitions/bio-ml/overview
